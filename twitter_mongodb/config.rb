@@ -1,0 +1,9 @@
+DATABASE_HOST = 'localhost'
+DATABASE_PORT = 27017
+DATABASE_NAME = "twitter-archive"
+COLLECTION_NAME = "tweets"
+TAGS = ["#MongoDB", "#Mongo"]
+CONSUMER_KEY = "replace me"
+CONSUMER_SECRET = "replace me"
+TOKEN = "replace me"
+TOKEN_SECRET = "replace me"
